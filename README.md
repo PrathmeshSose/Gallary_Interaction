@@ -1,4 +1,4 @@
-# FotoOwl Gallery - Real-time Image Interactions
+# My Gallery - Real-time Image Interactions
 
 A modern, real-time image gallery application built with React, featuring instant emoji reactions, comments, and live activity feeds across multiple users.
 

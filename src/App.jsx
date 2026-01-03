@@ -55,7 +55,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                  FotoOwl Gallery
+                  My Gallery
                 </h1>
                 <p className="text-xs text-gray-600 dark:text-gray-400">
                   Real-time interactions
