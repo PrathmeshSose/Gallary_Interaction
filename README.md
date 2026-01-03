@@ -5,6 +5,7 @@ A modern, real-time image gallery application built with React, featuring instan
 ## 🚀 Live Demo
 
 **GitHub Repository**: [https://github.com/PrathmeshSose/Gallary_Interaction](https://github.com/PrathmeshSose/Gallary_Interaction)
+**live Link:**  https://galaryinteraction.netlify.app
 
 **Live Demo**: [Deploy and add your Vercel URL here]
 
