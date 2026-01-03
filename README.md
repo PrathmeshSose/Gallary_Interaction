@@ -4,7 +4,9 @@ A modern, real-time image gallery application built with React, featuring instan
 
 ## 🚀 Live Demo
 
-[Deploy your app and add the link here]
+**GitHub Repository**: [https://github.com/PrathmeshSose/Gallary_Interaction](https://github.com/PrathmeshSose/Gallary_Interaction)
+
+**Live Demo**: [Deploy and add your Vercel URL here]
 
 ## 📦 Setup Instructions
 
@@ -16,8 +18,8 @@ A modern, real-time image gallery application built with React, featuring instan
 
 ### 1. Clone & Install
 ```bash
-git clone [your-repo-url]
-cd taskproject
+git clone https://github.com/PrathmeshSose/Gallary_Interaction.git
+cd Gallary_Interaction
 npm install
 ```
 
